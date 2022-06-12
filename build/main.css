@@ -19,7 +19,7 @@ main {
   display: flex;
   flex-direction: column;
 }
-#aboveDapp {
+.aboveDapp {
   width: 100%;
   text-align: center;
   font-size: x-large;
