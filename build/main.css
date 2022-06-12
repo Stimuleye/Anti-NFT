@@ -81,19 +81,3 @@ button.primary {
   border-width: 0px;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-.linkcolumn {
-  float: left;
-  width: 75px;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.linkrow::after {
-  content: "";
-  clear: both;
-  display: table;
-}
