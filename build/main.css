@@ -60,6 +60,12 @@ li a {
 padding: 14px 16px;
 text-decoration: none;
 }
+li a img {
+  color: #8780bd;
+padding: 14px 16px;
+text-decoration: none;
+size: 20px;
+}
 li a:hover {
   background-color: rgba(255, 255, 255, 0);
 }
