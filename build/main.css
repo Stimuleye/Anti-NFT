@@ -61,10 +61,8 @@ padding: 14px 16px;
 text-decoration: none;
 }
 li a img {
-display:block;
-  color: #8780bd;
-padding: 14px 16px;
-text-decoration: none;
+display:inline;
+padding: 10px;
 width: 20px;
 }
 li a:hover {
