@@ -53,7 +53,8 @@ ol, ul, menu {
 }
 
 li {
-  display: inline;
+    display: inline;
+    color: #f0ffff;
 }
 li a {
   color: #8780bd;
