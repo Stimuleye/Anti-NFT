@@ -82,7 +82,7 @@ button.primary {
   border-width: 0px;
 }
 .timeline-Widget {
-    max-width: 500;
+    max-width: 500px;
     background-color: #fff;
     border-radius: 5px;
     padding: 20px;
