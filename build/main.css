@@ -84,7 +84,7 @@ button.primary {
 .corner-wrapper {
   display: block;
   overflow: hidden;
-  width: 60%;
+  width: 90%;
   height: 500px;
   border-radius: 10px;
   transform: translateZ(0px);
